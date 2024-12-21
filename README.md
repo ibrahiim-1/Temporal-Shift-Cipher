@@ -1,6 +1,3 @@
-Here’s the revised README file content excluding the code:
-
----
 
 # **Temporal Shift Cipher Program**
 
